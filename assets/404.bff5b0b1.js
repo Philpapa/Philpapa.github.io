@@ -1,0 +1,1 @@
+import{g as n}from"./index.0af4b258.js";const r={name:"ErrPage",data(){return{}}};var t=function(){var _=this,e=_._self._c;return e("div",[_._v("404")])},a=[],s=n(r,t,a,!1,null,"c647b7b5",null,null);const l=s.exports;export{l as default};

@@ -1,1 +1,0 @@
-import{_ as r}from"./_get-intrinsic@1.2.4@get-intrinsic-c09dd1a7.js";import{c as p}from"./_call-bind@1.0.7@call-bind-90319db2.js";var e=r,t=p;e("%WeakMap%",!0);e("%Map%",!0);t("WeakMap.prototype.get",!0);t("WeakMap.prototype.set",!0);t("WeakMap.prototype.has",!0);t("Map.prototype.get",!0);t("Map.prototype.set",!0);t("Map.prototype.has",!0);
